@@ -28,7 +28,7 @@ I followed a general approach on the dataset;
 
 1. Data Cleaning and EDA
 2. Scaling the data
-3. Dealing with Class Imbalance with SMOTE and NearMiss methods
+3. Dealing with Class Imbalance with SMOTEENN method
 4. Comparing Machine Learning models 
 5. Hyperparameter tuning with Randomized Search CV
 6. Finding best parameters with Grid Search CV
